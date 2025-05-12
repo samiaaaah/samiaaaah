@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samiaaaah
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning NLP
+- 🌱 I’m currently learning WEB DEV
 
 - 📫 How to reach me samiyamahveen16@gmail.com
 - 😄 Pronouns: she/her
